@@ -1,0 +1,1 @@
+savedcmd_/home/priyanka/GIT_DATA/LDD_Assignments/Assignment_1/Q1/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/priyanka/GIT_DATA/LDD_Assignments/Assignment_1/Q1/Module.symvers -T /home/priyanka/GIT_DATA/LDD_Assignments/Assignment_1/Q1/modules.order -i Module.symvers -e 

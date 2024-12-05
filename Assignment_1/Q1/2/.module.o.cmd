@@ -1,0 +1,1 @@
+savedcmd_/home/priyanka/GIT_DATA/LDD_Assignments/Assignment_1/Q1/2/module.o := ld -m elf_x86_64 -z noexecstack   -r -o /home/priyanka/GIT_DATA/LDD_Assignments/Assignment_1/Q1/2/module.o @/home/priyanka/GIT_DATA/LDD_Assignments/Assignment_1/Q1/2/module.mod 
